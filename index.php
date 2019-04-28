@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Мой сайтик, пхех</title>
+</head>
+<body>
+	Ну енто типо сайт.<br>
+	Создатель - vk.com/itisapachee<br>
+	А время - <?=time()?>
+</body>
+</html>
