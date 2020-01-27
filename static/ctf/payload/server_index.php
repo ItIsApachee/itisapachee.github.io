@@ -31,7 +31,7 @@
           </form>
         </p>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <p>Rickrolled by Apachee (@ItIsApacheee)</p>
+      <p>Rickrolled by Apachee (<a href="tg://resolve?domain=itisapachee">@ItIsApacheee</a>)</p>
         <div><small>Учтите, что каждые 15 минут сервис перезапускается и все файлы удаляются.</small></div>
       </div>
     </main>
